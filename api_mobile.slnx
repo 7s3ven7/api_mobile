@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="api_mobile/api_mobile.csproj" />
+  <Project Path="Controllers/Controllers.csproj" />
+  <Project Path="Entities/Entities.csproj" />
+  <Project Path="Servicies/Services.csproj" />
+</Solution>
